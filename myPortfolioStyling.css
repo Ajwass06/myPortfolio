@@ -1,0 +1,20 @@
+/* General Styling */
+/* 
+.topnav {overflow: hidden; background-color: seagreen; padding: 14px}
+.topnav a {float: left; background-color: ;color: blue; padding: 14px 16px;} 
+*/
+
+.topnav a {padding: 14px 16px; text-decoration: none; color: darkslategrey;}
+.topnav a:hover {background-color: sienna; color: floralwhite;}
+#box {display:  flex; flex-wrap: wrap; background-color: indianred; 
+	padding: 10px; border: 0.8px solid floralwhite; width: 675px; height: 280px;}
+.row {display: flex; flex-wrap: wrap; padding: 0 4px;}
+.column {flex: 50%; padding: 10px;}
+mark.mainpage {opacity: 0.8; background-color: floralwhite; padding: 2.5px;}
+mark.artpage {background-color: indianred; color: beige; padding: 10px; border-radius: 10px;}
+
+h2.artpage {padding: 10px; font-family: Times New Roman; text-align: center;}
+hr {height: 1px; background-color: seagreen;}
+
+
+/* sienna, darkred
