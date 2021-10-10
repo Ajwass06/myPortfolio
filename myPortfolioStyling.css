@@ -6,6 +6,8 @@
 
 .topnav a {padding: 14px 16px; text-decoration: none; color: darkslategrey;}
 .topnav a:hover {background-color: sienna; color: floralwhite;}
+#box {display:  flex; flex-wrap: wrap; background-color: indianred; 
+	padding: 10px; border: 0.8px solid floralwhite; width: 675px; height: 280px;}
 .row {display: flex; flex-wrap: wrap; padding: 0 4px; float: left;}
 .column {flex: 50%; padding: 10px;}
 .aboutMe {float: right;}
